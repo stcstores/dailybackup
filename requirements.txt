@@ -1,0 +1,4 @@
+git+ssh://lseagle@lsgit.uk/~/lsgit.uk/stclocal.git@v1.5
+git+ssh://lseagle@lsgit.uk/~/lsgit.uk/lsftp.git@v1.0
+git+ssh://lseagle@lsgit.uk/~/lsgit.uk/linnworks_db.git@v1.0
+git+ssh://lseagle@lsgit.uk/~/lsgit.uk/pylinnworks.git@v1.2
